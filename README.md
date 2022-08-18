@@ -14,6 +14,9 @@
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjfsdGwTGTZLHpKSbdRNBMsdSxDKkHwjWMWbtFTJQhftwghbrGlrshfdkKNWdxpSMhhmQb">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://discordapp.com/users/267239714577186816">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
 </div>
 
 <!--
