@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=benbaho&show_icons=true&theme=radical)
+
+
 <!--
 **benbaho/benbaho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
