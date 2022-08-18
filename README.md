@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/benbahooo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjfsdGwTGTZLHpKSbdRNBMsdSxDKkHwjWMWbtFTJQhftwghbrGlrshfdkKNWdxpSMhhmQb">
+  <a href="mailto:bdurmus@student.42kocaeli.com.tr">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://discordapp.com/users/267239714577186816">
