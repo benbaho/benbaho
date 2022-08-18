@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/benbahooo/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.sitepoint.com/github-profile-readme/your-twitter-URL">
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSKjfsdGwTGTZLHpKSbdRNBMsdSxDKkHwjWMWbtFTJQhftwghbrGlrshfdkKNWdxpSMhhmQb">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
