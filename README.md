@@ -19,9 +19,3 @@
   </a>
 </div>
 
-<!--
-
-
-- 🌱 I’m currently learning C/C++/Python
-
--->
