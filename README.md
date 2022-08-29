@@ -14,16 +14,16 @@
     <td href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2513275" alt="bdurmus's 42 Born2beroot Score" /></td>
     </tr>
     <tr>
-	<th style="width:50%">Get_Next_Line</th>
+	    <th style="width:50%"><a href="https://github.com/benbaho/get_next_line"></a>Get_Next_Line</th>
     <td href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2506163" alt="bdurmus's 42 get_next_line Score" /></td>
     </td>
     </tr>
     <tr>
-	<th style="width:50%">Minitalk</th>
+	<th style="width:50%"><a href="https://github.com/benbaho/Minitalk-42"></a>Minitalk</th>
     <td href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2542963" alt="bdurmus's 42 minitalk Score" /></td>
     </tr>
     <tr>
-	<th style="width:50%">So_Long</th>
+	<th style="width:50%"><a href="https://github.com/benbaho/so_long-42"></a>So_Long</th>
     <td href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2537957" alt="bdurmus's 42 so_long Score" /></td>
     </tr>
     <tr>
