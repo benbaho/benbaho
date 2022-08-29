@@ -1,5 +1,5 @@
 
-<table border="2">
+<table border="2",width="10">
     <body>
         <tr>
             <td>&nbsp;</td>
@@ -38,7 +38,6 @@
             <td>asd</td>
             <td>100</td>
         </tr>
-        
     </body>
 </table>
 
