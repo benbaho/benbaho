@@ -35,7 +35,7 @@
     <td href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2566475" alt="bdurmus's 42 Exam Rank 02 Score" /></td>
     </tr>
 	<tr>
-	<th style="width:50%">Philosophers</th>
+	<th style="width:50%"><a href="https://github.com/benbaho/Philosophers">Philosophers</a></th>
     <td href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2753344" alt="bdurmus's 42 Philosophers Score" /></td>
     </tr>
     <tr>
