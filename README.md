@@ -3,8 +3,6 @@
     <body>
         <tr>
             <td>&nbsp;</td>
-            <td>push</td>
-            <td>95</td>
         </tr>
         <tr>
             <td>asd</td>
