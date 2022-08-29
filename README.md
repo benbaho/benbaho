@@ -2,10 +2,6 @@
 <table width="10" heigh="10">
     <body>
         <tr>
-            <td>&nbsp;</td>
-            </td>
-        </tr>
-        <tr>
             <td>push</td>
             <td>95</td>
         </tr>
