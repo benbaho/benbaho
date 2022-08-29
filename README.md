@@ -2,9 +2,6 @@
 <table width="10" heigh="10">
     <body>
         <tr>
-            <td>&nbsp;</td>
-        </tr>
-        <tr>
             <td>asd</td>
             <td>100</td>
         </tr>
