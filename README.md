@@ -1,37 +1,5 @@
 
-<table style="width:%15">
-<body>
-        <tr>
-            <td>asd</td>
-            <td>100</td>
-        </tr>
-         </tr>
-        <tr>
-            <td>asd</td>
-            <td>100</td>
-        </tr>
-         </tr>
-        <tr>
-            <td>asd</td>
-            <td>100</td>
-        </tr>
-         </tr>
-        <tr>
-            <td>asd</td>
-            <td>100</td>
-        </tr>
-         </tr>
-        <tr>
-            <td>asd</td>
-            <td>100</td>
-        </tr>
-         </tr>
-        <tr>
-            <td>asd</td>
-            <td>100</td>
-        </tr>
-    </body>
-</table>
+
 
 <div align="center">
   <a href="https://github.com/JaeSeoKim/badge42">
