@@ -1,5 +1,5 @@
 
-<table style="width:10" heigh="10">
+<table style="width:10" style="heigh=10">
 <body>
         <tr>
             <td>asd</td>
