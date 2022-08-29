@@ -2,7 +2,7 @@
 <body>
 <table style="width:25%";>
   <tr>
-	<th <a>"https://github.com/benbaho/Libft.h"</a>>Libft</th>
+	<th <a href="https://github.com/benbaho/Libft.h"</a>>Libft</th>
     <td href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2473050" alt="bdurmus's 42 Libft Score" /></td>
     </tr>
     <tr>
