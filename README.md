@@ -1,5 +1,6 @@
+<div align="center";>
 <body>
-<table style="width:25%"; align="center";>
+<table style="width:25%";>
   <tr>
     <th>Libft</th>
     <td href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2473050" alt="bdurmus's 42 Libft Score" /></td>
@@ -44,7 +45,7 @@
 </table>
 
 </body>
-</html>
+</div>
 
 <div align="center">
   <a href="https://github.com/JaeSeoKim/badge42">
