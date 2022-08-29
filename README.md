@@ -1,5 +1,3 @@
-
-</style>
 <body>
 <table style="width:25%";>
   <tr>
