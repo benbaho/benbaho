@@ -1,6 +1,6 @@
 
-<table width="10" heigh="10">
-    <body>
+<table <width="10"> <<heigh="10">>
+<body>
         <tr>
             <td>asd</td>
             <td>100</td>
