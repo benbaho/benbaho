@@ -39,7 +39,7 @@
     <td href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2753344" alt="bdurmus's 42 Philosophers Score" /></td>
     </tr>
     <tr>
-	<th style="width:50%"><a href="https://github.com/benbaho/Minishell"></a>Minishell</th>
+	<th style="width:50%"><a href="https://github.com/benbaho/Minishell">Minishell</a></th>
     <td href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2753343" alt="bdurmus's 42 minishell Score" /></td>
     </tr>
 </table>
