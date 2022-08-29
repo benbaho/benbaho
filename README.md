@@ -1,4 +1,4 @@
-<body>
+<body align="center">
 <table style="width:25%";>
   <tr>
     <th>Libft</th>
