@@ -1,16 +1,4 @@
 
-<html>
-<style>
-table, th, td {
-  border:3px solid black;
-  border-collapse: collapse;
-  padding-bottom:8px;
-  padding-right:8px;
-  padding-left:8px;
-  padding-top:8px;
-  text-align:center;
-  background-color:lightgray;
-}
 </style>
 <body>
 <table style="width:25%";>
