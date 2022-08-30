@@ -7,7 +7,7 @@
     </tr>
     <tr>
 	    <th style="width:50%"><a href="https://github.com/benbaho/ft_printf">Ft_Printf</a></th>
-    <th href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2508310" alt="bdurmus's 42 ft_printf Score" /></td>
+    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/project/2508310" alt="bdurmus's 42 ft_printf Score" /></a>
     </tr>
     <tr>
 	<th style="width:50%">Born2beroot</th>
