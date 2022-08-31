@@ -47,7 +47,7 @@
 </body>
 </div>
 
-<div align="right">
+<div align="center">
   <a href="https://github.com/JaeSeoKim/badge42">
     <img src="https://badge42.vercel.app/api/v2/cl6z2b7h700110hmaifbxnscx/stats?cursusId=21&coalitionId=233"
     alt="bdurmus's 42 stats"/>
