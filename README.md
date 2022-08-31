@@ -1,4 +1,4 @@
-<div align="left";>
+<div align="center";>
 <body>
 <table style="width:25%";>
   <tr>
