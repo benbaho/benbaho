@@ -1,6 +1,5 @@
 
-<iframe src="//f1livegp.me/f1/live.php" name="frame" scrolling="no" frameborder="no" allow="fullscreen" align="center" height = "450px" width = "100%"></iframe>
-<div align="center">
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbaho&langs_count=8"/>
   </a><br>
