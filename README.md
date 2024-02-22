@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-sta">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benbaho&langs_count=8"/>
   </a><br>
   <a href="https://www.linkedin.com/in/benbaho/">
